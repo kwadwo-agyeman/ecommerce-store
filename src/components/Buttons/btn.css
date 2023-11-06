@@ -1,0 +1,19 @@
+
+.btn--text{
+    font-size: 20px;
+    padding: 30px;
+    text-transform: capitalize;
+}
+.filter-btn{
+    border-radius: 10px;
+    background: aqua;
+    border: none;
+    outline: none;
+}
+
+div.dark .filter-btn{
+    border-radius: 10px;
+    background: white;
+    border: none;
+    outline: none;
+}
